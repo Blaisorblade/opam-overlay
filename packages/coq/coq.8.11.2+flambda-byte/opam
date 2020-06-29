@@ -36,11 +36,9 @@ build: [
     "-native-compiler" {os = "macos"} "no" {os = "macos"}
   ]
   [make "-j%{jobs}%"]
-  [make "-j%{jobs}%" "byte"]
 ]
 install: [
   [make "install"]
-  [make "install-byte"]
 ]
 
 extra-files: [
