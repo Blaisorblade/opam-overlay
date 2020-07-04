@@ -1,0 +1,11 @@
+bin: [
+  "bin/coqwc"
+  "bin/coqtop"
+  "bin/coqdoc"
+  "bin/coqdep"
+  "bin/coqchk"
+  "bin/coqc"
+  "bin/coq_makefile"
+  "bin/coq-tex"
+  "bin/coqworkmgr"
+]
