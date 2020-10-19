@@ -1,6 +1,7 @@
 bin: [
   "bin/coqwc"
   "bin/coqtop"
+  "bin/coqtop.byte"
   "bin/coqdoc"
   "bin/coqdep"
   "bin/coqchk"
